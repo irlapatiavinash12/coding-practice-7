@@ -1,0 +1,18 @@
+/* Write your CSS here */
+
+.list-styling {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+.suggestion-text {
+  color: #475569;
+  font-family: 'Roboto';
+}
+
+.img-styling {
+  height: 20px;
+  width: 20px;
+}
